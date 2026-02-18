@@ -50,5 +50,4 @@ CONTRIBUTING.md
 Generate it only in Napolitan-Italian. 
 
 Analyze the project structure, dependencies, and code to make the README accurate, helpful, and focused on getting users productive quickly. 
-
-Generate it both in English and Spanish. 
+Raquel Angulo Castaño dice:Generate it both in English and Spanish. 
